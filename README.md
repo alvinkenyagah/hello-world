@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" height="98px" width="1080px">
+<img src="https://media4.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif" height="144" width="1080">
 #                                    Hello-world
 
 #### Simple webpage with minimal content, Tuesday, February 22 2022
